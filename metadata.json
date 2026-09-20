@@ -1,0 +1,6 @@
+{
+  "name": "Future Life Simulator",
+  "description": "เว็บเกมจำลองชีวิตในอนาคตผ่านการเลือกช้อยส์ พร้อมระบบสมาชิก Dashboard สถิติ และ Admin จัดการระบบ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
